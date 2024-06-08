@@ -56,7 +56,7 @@ In English style and usage, there is no right answer. This is because practition
 
 To illustrate these principles to learners, we ground our initial discussion on language, as a gentle introduction to the feeling of the rug being swept from under your feet as you realize that most things are a social construct subject to the forces of cultural evolution, collective behavior, history and so on: from race to gender, to the country you live in and the verbal events of thoughts, emotions, and feelings you use to communicate each day.
 
-Subsequent to language, we turn to numbers. Who trusts numbers? Who uses numbers to make decisions? We use open-ended questions #cite("gibb_once_2023") to elicit questions from learners and guide their cognitive processes toward several such focal points of discussion. Readings such as #cite("ogle_time_2019", "odell_no_2017", "zarya_nourishment_2023", "hoang_spiderweb_2022") further help "pull the rug out" from beneath concepts learners' might be anchored to given their diverse backgrounds and upbringings, such as time, money, capitalism, and other social constructs that relevant to the key concepts woven throughout this course such as immigration, the criminal legal system, education, health care, climate and the environment.
+Subsequent to language, we turn to numbers. Who trusts numbers? Who uses numbers to make decisions? We use open-ended questions @gibb_once_2023 to elicit questions from learners and guide their cognitive processes toward several such focal points of discussion. Readings such as @ogle_time_2019, @odell_no_2017, @zarya_nourishment_2023, @hoang_spiderweb_2022 further help "pull the rug out" from beneath concepts learners' might be anchored to given their diverse backgrounds and upbringings, such as time, money, capitalism, and other social constructs that relevant to the key concepts woven throughout this course such as immigration, the criminal legal system, education, health care, climate and the environment.
 
 To ensure learners are given ample space to explore their potential for building psychological flexibility, informed consent and mental health are key, which can be reinforced through readings such as @fiorella_how_2022.
 
@@ -65,13 +65,13 @@ We illustrate the differences between prescriptivist and descriptivist stances t
 
 - *Arts and culture*. @williams_hip-hop_2015 describes how the subversive elements of hip hop can be viewed as amplifying their political impact by enabling listeners to also consider breaking "rules", in opposition to prescriptivist censorship or criticism of this music due to its nonconformism.
 
-- *English language usage and style*. #cite("orwell_politics_1946", "wallace_democracy_2001", "garner_garners_2022", "butterfield_fowlers_2015", "stahl_english_2023", "somers_youre_2014") all provide descriptors of varying stances toward modern English and usage, and some such as @garner_garners_2022 even include weighty discussion of social justice issues that intersect with written and spoken language. @tutuola_palm-wine_1994, written as oral traditions in the Yoruba culture were being succeeded by English serve to "break the fourth wall" and highlight a learner's own experience and responses to "standard English" versus how they might define "non-standard English" for themselves, alongside monitoring their implicit biases and rules throughout their data thinking journey.
+- *English language usage and style*. @orwell_politics_1946, @wallace_democracy_2001, @garner_garners_2022, @butterfield_fowlers_2015, @stahl_english_2023, @somers_youre_2014 all provide descriptors of varying stances toward modern English and usage, and some such as @garner_garners_2022 even include weighty discussion of social justice issues that intersect with written and spoken language. @tutuola_palm-wine_1994, written as oral traditions in the Yoruba culture were being succeeded by English serve to "break the fourth wall" and highlight a learner's own experience and responses to "standard English" versus how they might define "non-standard English" for themselves, alongside monitoring their implicit biases and rules throughout their data thinking journey.
 
-- *Ethnography, anthropology, storytelling, and open source intelligence.* #cite("chipchase_field_2017", "fiorella_how_2022", "holmes_fresh_2013", "cooperrider_allure_2023", "villarreal_logistics_2022", "effler_laughing_2010", "gould_when_2015")
+- *Ethnography, anthropology, storytelling, and open source intelligence.* @chipchase_field_2017 @fiorella_how_2022, @holmes_fresh_2013, @cooperrider_allure_2023, @villarreal_logistics_2022, @effler_laughing_2010, @gould_when_2015
 
-- *Health.* #cite("mikkelsen_covid-19_2023", "zarya_nourishment_2023", "bridges_reproducing_2011").
+- *Health.* @mikkelsen_covid-19_2023, @zarya_nourishment_2023, @bridges_reproducing_2011.
 
-- *Journalism.* #cite("angwin_journalistic_2023").
+- *Journalism.* @angwin_journalistic_2023.
 
 == Skills
 The first week serves to begin exposing you to stimuli of your choice (such as embarking on this course! or choosing what to read).
@@ -121,7 +121,7 @@ We use the data build tool @noauthor_dbt_nodate to standardize clinical data and
 */
 
 /*
-Label Studio is an open source data labeling platform that we have scaled to train natural language processing models such as #clinicalbert to analyze over five million records with human clinicians annotating text data at a large academic medical center #cite("labelstudio"). Similarly, we have also used this tool to implement a labeling workflow for radiologists and demonstrated super-human performance of the open source computer vision model for detecting pediatric upper extremity fractures @noauthor_childfx_2023. 
+Label Studio is an open source data labeling platform that we have scaled to train natural language processing models such as #clinicalbert to analyze over five million records with human clinicians annotating text data at a large academic medical center @labelstudio. Similarly, we have also used this tool to implement a labeling workflow for radiologists and demonstrated super-human performance of the open source computer vision model for detecting pediatric upper extremity fractures @noauthor_childfx_2023. 
 */
 
 /*

@@ -27,7 +27,7 @@
   show link: underline
 
   // Configure citation and bibliography styles.
-  set cite(style: "chicago-author-date", brackets: true)
+  set cite(style: "chicago-author-date")
   set bibliography(style: "apa", title: "references")
 
   // FIGURES
